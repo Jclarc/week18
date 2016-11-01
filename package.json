@@ -1,0 +1,19 @@
+{
+  "name": "week18",
+  "version": "1.0.0",
+  "description": "week 18 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jclarc/week18.git"
+  },
+  "author": "Jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jclarc/week18/issues"
+  },
+  "homepage": "https://github.com/Jclarc/week18#readme"
+}
